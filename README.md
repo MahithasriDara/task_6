@@ -26,7 +26,7 @@ The aim of this task was to analyze monthly sales trends, compute total order vo
 
 ## 💡 Analysis Queries & Descriptions:
 ### Joining the two tablesdata
-![Joining the two tables](./joining the tables.png)
+![--Joining the two tables](./joining the tables.png)
 
 ### -- Filter by Specific Date Range
 ![-- Filter by Specific Date Range](./secific_date_range.png)
