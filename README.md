@@ -31,8 +31,7 @@ The aim of this task was to analyze monthly sales trends, compute total order vo
 ### -- Filter by Specific Date Range
 ![-- Filter by Specific Date Range](./secific_date_range.png)
 
-### June Sales Result
-![June Sales](./screenshots/june_sales.png)
+
 
 ### Average Order Value Result
 ![Average Order Value](top5_revenue.png)
